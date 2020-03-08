@@ -17,7 +17,8 @@ Will be added later.
 You will be needing python 3.6 and git installed!
 ```
 git clone https://github.com/avhalo/lyrco.git
-python main.py
+cd lyrco
+python ./main.py [args]
 ```
 
 ### Requirements
