@@ -39,3 +39,8 @@ Option 2: Do your own branch and I'll check it. Post it [here](https://github.co
 Use ML to do stuff. One thing I can think of is to set the lyrics in a NLP based DL library (TF ofc) and set the syllables as a paremeter (wiktionary helps) and creat rap-eti-rap song or other random lyrics. If it really works (it won't) I'll make it genre-specific (hardcore indie) and term-specific (love songs, songs mentioning "bitch"). Shits complicated. And I am not a ml engineer.
 
 More simple would be to link to a youtube-video (will be proably done via search). The name of the songs will be mentioned. However. For now it will be a terminal based so I am thinking wheter there will be links to specific artists and their songs. Could see that happening. Would need to modify some parts. Will edit this later if this feature will be impelemnted.
+
+
+### MAJOR PROBLEM
+
+I won't tell it all but there is thing called licensing. 
