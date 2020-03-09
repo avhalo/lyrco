@@ -2,7 +2,7 @@
 
 There is a documents folder which describes the structure and management. There is data folder which has the JSON files. 
 
-Why Lyrics "Corpora"? In latin the III declination of -us is -ora in nominative in this "corpus" case. I am pulling from multiple sources, not just one.
+Why Lyrics "Corpora"? In latin the III declination of -us is -ora in nominative in this ["corpus" case](http://latindictionary.wikidot.com/noun:corpus). I am pulling from multiple sources, not just one.
 
 ## This will be updated later on.
 
