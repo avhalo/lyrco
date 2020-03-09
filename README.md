@@ -1,6 +1,8 @@
 # Lyrics Corpora
 
-There is a documents folder which describes the structure and management
+There is a documents folder which describes the structure and management. There is data folder which has the JSON files. 
+
+Why Lyrics "Corpora"? In latin the III declination of -us is -ora in nominative in this "corpus" case. I am pulling from multiple sources, not just one.
 
 ## This will be updated later on.
 
@@ -9,8 +11,9 @@ To my knowledge there exists no similar if you take out the question of a google
 [Example](https://www.google.com/search?client=firefox-b-d&q=remember+the+name+lyrics)
 
 Why? I'll add one crucial thing: highlighting and seeing similar songs.
+
 Right now you can do [this too](https://www.google.com/search?client=firefox-b-d&q=back+when+mark+walberg+was+lyrics)
-But there is no highlighting and similar songs! 
+But there is no highlighting and similar songs.
 
 ## Installation
 Will be added later.
@@ -30,9 +33,10 @@ pip install [stuff]
 ### Pull requests:
 
 Option 1: https://github.com/avhalo/lyrco/pulls
+
 Option 2: Do your own branch and I'll check it. Post it [here](https://github.com/avhalo/lyrco/issues)
 
-*ALL REQUESTS ARE WELCOME* Especielly one with better optimization, better styling code (_under debate_), and better structure. Even typofixes are welcome. If you spot an error: report it.
+*ALL REQUESTS ARE WELCOME* Especielly one with better optimization, better styling code (_under debate naturally_), and better structure. Even typofixes are welcome. If you spot an error, report it.
 
 
 ### Future:
@@ -43,4 +47,4 @@ More simple would be to link to a youtube-video (will be proably done via search
 
 ### MAJOR PROBLEM
 
-I won't tell it all but there is thing called licensing. 
+I won't go in depth at all but there is thing called licensing. How something like lyricfind.com avoids this? They don't. at least if you compare the results of above mentioned examples. There is no author or who the lyrics belong to (as in members of the band). There is a mention of who is the artist. However, If you look up "imdb corpus" you'll see also that there are no writers mentioned, just the movies. How the whole business runs is by deceiving. That's what I'm implementing.  
