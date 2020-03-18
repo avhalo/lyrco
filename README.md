@@ -44,6 +44,7 @@ Use ML to do stuff. One thing I can think of is to set the lyrics in a NLP based
 
 More simple would be to link to a youtube-video (will be proably done via search). The name of the songs will be mentioned. However. For now it will be a terminal based so I am thinking wheter there will be links to specific artists and their songs. Could see that happening. Would need to modify some parts. Will edit this later if this feature will be impelemnted.
 
+Google could have a implemented embedding of youtube songs (or Google Music) with their lyrics. That is: they have extremely (? Don't know current status) good audio-to-text enginge so that at the same time you could do little karaoke. Note: will not be implemented in this little extremely small and probably time-complexity hungry pick-and-mix (shitty construct, kyhäelmä/väsäys).
 
 ### MAJOR PROBLEM
 
