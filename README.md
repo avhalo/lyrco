@@ -4,6 +4,7 @@ There is a documents folder which describes the structure and management. There 
 
 Why Lyrics "Corpora"? In latin the III declination of -us is -ora in nominative in this ["corpus" case](http://latindictionary.wikidot.com/noun:corpus). I am pulling from multiple sources, not just one.
 
+There might be a frontend someday if this thing-y thing seems even remotely useful and working (hint: what is optimization?)
 ## This will be updated later on.
 
 To my knowledge there exists no similar if you take out the question of a google search "[name_of_the_song] lyrics"
