@@ -16,6 +16,10 @@ Why? I'll add one crucial thing: highlighting and seeing similar songs.
 Right now you can do [this too](https://www.google.com/search?client=firefox-b-d&q=back+when+mark+walberg+was+lyrics)
 But there is no highlighting and similar songs.
 
+Edit: I've seen it before but it simply does not work all of the times. There is something like [](https://www.google.com/search?client=firefox-b-d&q=t%C3%A4%C3%A4+kaikki+tuntuu+ilman+rakkautta&oq=t%C3%A4%C3%A4+kaikki+tuntuu+ilman+rakkautta every now and then. Trick is to do it without adding "[...] lyrics".
+
+Now I am rethinking why I'm doing this. 
+
 ## Installation
 Will be added later.
 You will be needing python 3.6 and git installed!
@@ -49,4 +53,8 @@ Google could have a implemented embedding of youtube songs (or Google Music) wit
 
 ### MAJOR PROBLEM
 
-I won't go in depth at all but there is thing called licensing. How something like lyricfind.com avoids this? They don't. at least if you compare the results of above mentioned examples. There is no author or who the lyrics belong to (as in members of the band). There is a mention of who is the artist. However, If you look up "imdb corpus" you'll see also that there are no writers mentioned, just the movies. How the whole business runs is by deceiving. That's what I'm implementing.  
+I won't go in depth at all but there is thing called licensing. How something like lyricfind.com avoids this? They don't. at least if you compare the results of above mentioned examples. There is no author or who the lyrics belong to (as in members of the band). There is a mention of who is the artist. However, If you look up "imdb corpus" you'll see also that there are no writers mentioned, just the movies. How the whole business runs is by deceiving. That's what I'm implementing.  It is considered what the euphemism level after the fact that for some song mixture on youtube which even list the authors and licensees.
+
+## Also
+
+There is github lyrics corpora. I just don't like it. It is not fully featured but neither will this be. 

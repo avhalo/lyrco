@@ -1,3 +1,4 @@
+[tests]
 johny comes marching home
 "We all feel gay"
 
@@ -13,14 +14,26 @@ drug ballad
 shakira whenever wherever
 "I'll be there and you'll be near"
 
+Concrete Schoolyard
+"The contribution is clear"
+
 
 "he writes every line"
 
 "where do the children play"
+
+"tämä harvoille luetaan"
+
+"ja pahimpia on"
+
+"plus four pennies"
 
 [Lmao-added-here-too]
 metadata from wikipedia?
 link to YT?
 Exact search tickbox?
 See full lyrics
+pals from "intti" Fahllund
 
+[important]
+add artist, add song, add album
