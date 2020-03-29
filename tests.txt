@@ -16,7 +16,12 @@ shakira whenever wherever
 
 Concrete Schoolyard
 "The contribution is clear"
+"I am not trying to say my style is"
 
+Fade to black
+"to the point of agony"
+
+Tein kai lottorivini väärin
 
 "he writes every line"
 
@@ -26,14 +31,36 @@ Concrete Schoolyard
 
 "ja pahimpia on"
 
+"sossunjonoon tinkimään käy ylpeydestään"
+
+"mä tarviin aikaa ajatella"
+
 "plus four pennies"
+
+mammas gatan
+"Kanske ölen kommer ta oss"
+
+Tysta NER remix
+"2012 och dom snackar raser än"
 
 [Lmao-added-here-too]
 metadata from wikipedia?
 link to YT?
+Primary 90% if lyric found
+secondary music.youtube.com
 Exact search tickbox?
 See full lyrics
 pals from "intti" Fahllund
+REGEX SUPPORT?
+lyrics-game
+what would NN predict?
+multiple choice
+fill the gaps
+fill the whole line
 
 [important]
 add artist, add song, add album
+
+[sources]
+https://lyrics.lol
+https://lyrics.fi/?q=aamu+teesi+kanssas+jakamaan&re=
